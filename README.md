@@ -3,7 +3,7 @@
 <p>Mi nombre es Ivan y me apasiona el mundo del desarrollo Web <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: IvanNuñez](https://img.shields.io/badge/-IvanNuñez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)](https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)
+[![Linkedin: LinkedIn](https://img.shields.io/badge/-IvanNuñez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)](https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)
 
 
 ### Un poco sobre mi...  
