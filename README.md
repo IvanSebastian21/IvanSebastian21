@@ -11,7 +11,7 @@
 ```javascript
 const Ivan = {
   Developer: "FrontEnd" | "BackEnd",
-  Code: [Javascript, jQuery, HTML, CSS, Bootstrap{less}],
+  Code: [Javascript, jQuery, HTML, CSS, Bootstrap{less}, WepPack, npm],
   MoreCode: [React, Redux, Node, Express, Testing{Jest}, SQL, Java],
   SkillLevel: ["Desarrollador Web"],["Full Stack Jr"],
   challenge: "Abierto a aprender nuevas tecnologias y herramientas"
