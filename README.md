@@ -6,7 +6,7 @@
 [![Linkedin: IvanNuñez](https://img.shields.io/badge/-IvanNuñez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)](https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mi...  
+### <img src="![WhatsApp Image 2021-09-02 at 12 05 20](https://user-images.githubusercontent.com/85074756/140621760-a092acaa-bb99-41b2-bc4f-b2d30283fbf2.jpeg)" width="50"> Un poco sobre mi...  
 
 ```javascript
 const Ivan = {
