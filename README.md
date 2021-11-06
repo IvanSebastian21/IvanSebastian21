@@ -1,6 +1,6 @@
 <h1> Hola! Muchas gracias por visitar mi perfil en GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://user-images.githubusercontent.com/85074756/140621760-a092acaa-bb99-41b2-bc4f-b2d30283fbf2.jpeg" width="300" height="303">
-<p>Mi nombre es Ivan y soy Desarrollador Web Junior <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Mi nombre es Ivan y me apasiona el mundo del desarrollo Web <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: IvanNuñez](https://img.shields.io/badge/-IvanNuñez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)](https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)
