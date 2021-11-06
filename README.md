@@ -17,8 +17,6 @@ const Ivan = {
   challenge: "Abierto a aprender nuevas tecnologias y herramientas"
 }
 ```
-😄 
- 
 - *Objetivo:* Implementar en mis trabajos diseños con el mayor estándar de calidad posible empleando un Stack de herramientas y tecnologias que me acompañen para que mi trabajo brille con luz propia y se distinga por tener detalles que lo diferencien.
 - *Actualmente:* Me ilusiona un proyecto en el cual pueda aprender, crecer y desarrollarme como profesional. Que me permita aportar valor significativo desde mi lugar como programador Jr. Por este motivo sigo capacitandome dia a dia para profundizar mis conocimientos y estar a la altura de los desafio.:muscle: 
-- *Competencias*: Adaptabilidad. Autodidacta. Proactivo y con iniciativa propia. Me gusta trabajar en equipo y generar valor a mis compañeros. :thumbsup:
+- *Competencias*: Adaptabilidad. Autodidacta. Proactivo y con iniciativa propia. Me gusta trabajar en equipo y generar valor a mis compañeros. 😄 :thumbsup:
