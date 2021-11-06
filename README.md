@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hola!👋 Muchas Gracias por visitar mi perfil en GitHub. 
+##  Mi nombre es Ivan y te doy la bienvenida! 😄 
+ 
+- *Objetivo:* Implementar en mis trabajos diseños con el mayor estándar de calidad posible empleando un Stack de herramientas y tecnologias que me acompañen a lograr mi meta.
+- *Actualmente:* Me ilusiona un proyecto en el cual pueda aprender, crecer y desarrollarme como profesional. Que me permita aportar valor significativo desde mi lugar como programador Jr. Por este motivo sigo capacitandome dia a dia para profundizar mis conocimientos y estar a la altura de los desafio.:muscle: 
+- *Competencias*: Adaptabilidad. Autodidacta. Proactivo y con iniciativa propia. Me gusta trabajar en equipo y generar valor a mis compañeros. :thumbsup:
+
 
 <!--
 **IvanSebastian21/IvanSebastian21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
