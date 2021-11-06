@@ -10,7 +10,7 @@
 
 ```javascript
 const Ivan = {
-  pronouns: "He" | "his",
+  Developer: "FrontEnd" | "BackEnd",
   Code: [Javascript, jQuery, HTML, CSS, Bootstrap{less}],
   MoreCode: [React, Redux, Node, Express, Testing{Jest}, Java],
   SkillLevel: ["Desarrollor Full Stack Jr"],
