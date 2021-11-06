@@ -12,7 +12,7 @@
 const Ivan = {
   Developer: "FrontEnd" | "BackEnd",
   Code: [Javascript, jQuery, HTML, CSS, Bootstrap{less}],
-  MoreCode: [React, Redux, Node, Express, Testing{Jest}, Java],
+  MoreCode: [React, Redux, Node, Express, Testing{Jest},SQL, Java],
   SkillLevel: ["Desarrollor Full Stack Jr"],
   challenge: "Abierto a aprender nuevas tecnologias y herramientas"
 }
