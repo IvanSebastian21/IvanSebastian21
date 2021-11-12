@@ -40,8 +40,8 @@ const aboutMe = {
       <br>
     PostgreSQL <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268544/readme/pngwing.com_10_qbdbp1.png"/> |
     Express <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268180/readme/pngwing.com_5_mtcqjs.png"/> |
-    Sequelize <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268181/readme/58482ee4cef1014c0b5e4a75_n2nlsh.png"/> |
-    Firebase <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268183/readme/pngwing.com_8_euqwlt.png"/><h2>
+    MongoDB <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business.png"/> |
+    Jest <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"/><h2>
 <h3> Contacto: <h3>
     <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target= "_blank">
      <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">
