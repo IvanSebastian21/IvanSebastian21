@@ -1,4 +1,4 @@
-<h1> Hola! Muchas gracias por visitar mi perfil en GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1> ¡Hola! Muchas gracias por visitar mi perfil en GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <dl>
   <br>
     <img style='width: 100%; height: 20rem' src='https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg'/>
@@ -10,7 +10,7 @@
 
 ```javascript
 const aboutMe = {
-  Developer: "FrontEnd" | "BackEnd",
+  developer: "FrontEnd" | "BackEnd",
    code: [Javascript, HTML, CSS, Java],
    technologies: {
       frontEnd: {
@@ -18,11 +18,11 @@ const aboutMe = {
          css: ["Bootstrap", "Material UI", "Semantic-UI"]
       },
       backEnd: {
-         js: ["Node.js", "Express"]
+         js: ["Node.js", "Express", "Jest"]
       },
       databases: ["SQL", "MongoDB", "PostgreSQL"],
    },
-  SkillLevel: ["Desarrollador Web"],["Full Stack Jr"],
+  skillLevel: ["Desarrollador Web"],["Full Stack Jr"],
   challenge: "Abierto a aprender nuevas tecnologias y herramientas"
 };
 ```
@@ -45,6 +45,11 @@ const aboutMe = {
 <h3> Contacto: <h3>
     <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target= "_blank">
      <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">
-    </a>  <br>      
-Gracias por haber llegado hasta acá. Que andes bien!...
+    </a><br><br>    
 <img align='right' src="https://user-images.githubusercontent.com/85074756/140621760-a092acaa-bb99-41b2-bc4f-b2d30283fbf2.jpeg" width="180" height="195">  
+Gracias por haber llegado hasta acá. Que andes bien!...
+
+<br><br><br><br><br>
+
+Saludos! 😄 :thumbsup:
+  
