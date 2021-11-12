@@ -46,7 +46,7 @@ const aboutMe = {
     <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target= "_blank">
      <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">
     </a><br><br>  
-<h3> Puedes Escribirme a: ivanseba.nez20@gmail.com <h3>
+<h3> Puedes escribirme a: ivanseba.nez20@gmail.com <h3>
     <a href='https://www.google.com/intl/es-419/gmail/about/' target= "_blank">
      <img style='width: 2rem; height: 2rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png">
     </a><br><br>  
