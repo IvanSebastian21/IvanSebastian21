@@ -1,7 +1,7 @@
 <h1> ¡Hola! Muchas gracias por visitar mi perfil en GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <dl>
   <br>
-    <img style='width: 100%; height: 20rem' src='https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg'/>
+    <img style='width: 100%; height: 22rem' src='https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg'/>
   </dl>
 <p>Mi nombre es Ivan y soy desarrollador Web Argentino<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -46,9 +46,9 @@ const aboutMe = {
     <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target= "_blank">
      <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">
     </a><br><br>  
-<h3> Puedes Escribirme a: <h3>
+<h3> Puedes Escribirme a: ivanseba.nez20@gmail.com <h3>
     <a href='https://www.google.com/intl/es-419/gmail/about/' target= "_blank">
-     <img style='width: 2rem; height: 2rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png"><h3>ivanseba.nez20@gmail.com<h3>
+     <img style='width: 2rem; height: 2rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png">
     </a><br><br>  
 <img align='right' src="https://user-images.githubusercontent.com/85074756/140621760-a092acaa-bb99-41b2-bc4f-b2d30283fbf2.jpeg" width="180" height="195">  
 Gracias por haber llegado hasta acá. Que andes bien!...
