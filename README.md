@@ -4,6 +4,10 @@
 </em></p>
 
 [![Linkedin: IvanNuñez](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)](https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)
+<h3> contact me: <h3>
+    <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target= "_blank">
+     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">
+     </a>
 
 
 ### Un poco sobre mi...  
