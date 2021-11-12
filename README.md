@@ -51,6 +51,6 @@ const aboutMe = {
     <a href='https://www.google.com/intl/es-419/gmail/about/' target= "_blank">
      <img style='width: 2rem; height: 2rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png">
     </a><br><br><br><br>
-Gracias por haber llegado hasta acá. Que andes bien!...
-Saludos! 😄 :thumbsup:
+Gracias por haber llegado hasta acá. Que andes bien.
+Saludos!
   
