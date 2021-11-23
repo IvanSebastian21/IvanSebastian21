@@ -41,9 +41,8 @@ const aboutMe = {
     PostgreSQL <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268544/readme/pngwing.com_10_qbdbp1.png"/> |
     Express <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268180/readme/pngwing.com_5_mtcqjs.png"/> |
     MySQL <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/800px-Mysql.svg.png"/> |
-    Jest <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"/><h2>|
-    Sequalize <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="|
-    Jest <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seekvectors.com/files/download/Sequelize-01.png"/><h2>"/><h2>
+    Jest <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"/>|
+    Sequalize <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seekvectors.com/files/download/Sequelize-01.png"<h2>
       
 <h3> Contacto: <h3> <img align='right' src="https://user-images.githubusercontent.com/85074756/140621760-a092acaa-bb99-41b2-bc4f-b2d30283fbf2.jpeg" width="180" height="195">
     <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target= "_blank">
