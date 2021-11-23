@@ -38,8 +38,8 @@ const aboutMe = {
     Redux <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635267893/readme/pngwing.com_2_jzoj50.png"/> |
     Node Js <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268343/readme/pngwing.com_9_nptorj.png"/> |
       <br>
-    PostgreSQL <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268544/readme/pngwing.com_10_qbdbp1.png"/> |
     Express <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268180/readme/pngwing.com_5_mtcqjs.png"/> |
+    PostgreSQL <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268544/readme/pngwing.com_10_qbdbp1.png"/> |
     MySQL <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/800px-Mysql.svg.png"/> |
     Jest <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"/>|
     Sequalize <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seekvectors.com/files/download/Sequelize-01.png"<h2>
