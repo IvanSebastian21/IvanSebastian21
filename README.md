@@ -18,7 +18,7 @@ const aboutMe = {
          css: ["Bootstrap", "Material UI", "Semantic-UI"]
       },
       backEnd: {
-         js: ["Node.js", "Express", "Jest"]
+         js: ["Node.js", "Express", "Jest", "Sequelize"]
       },
       databases: ["SQL", "MySQL", "PostgreSQL"],
    },
