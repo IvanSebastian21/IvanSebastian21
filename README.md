@@ -15,10 +15,10 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Redux", "jQuery"],
-         css: ["Bootstrap", "Material UI", "Semantic-UI"]
+         css: ["Bootstrap", "Semantic-UI"]
       },
       backEnd: {
-         js: ["Node.js", "Express", "Jest", "Sequelize"]
+         js: ["NodeJS", "express", "Jest", "Sequelize"]
       },
       databases: ["SQL", "MySQL", "PostgreSQL"],
    },
