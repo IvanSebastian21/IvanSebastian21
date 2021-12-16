@@ -39,6 +39,7 @@ const aboutMe = {
     sass <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/> | 
     React <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"/> | 
     Redux <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635267893/readme/pngwing.com_2_jzoj50.png"/>
+    ChartJS <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://www.chartjs.org/img/chartjs-logo.svg"/>
     <h3> 
     <br>
 <h2><strong>Lenguajes: Backend<strong></h2>        
