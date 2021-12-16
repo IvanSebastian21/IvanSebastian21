@@ -14,7 +14,7 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Java],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "jQuery"],
+         js: ["React", "Redux", "Chartjs", "jQuery"],
          css: ["Bootstrap", "Semantic-UI"]
       },
       backEnd: {
