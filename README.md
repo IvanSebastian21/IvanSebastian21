@@ -20,7 +20,7 @@ const aboutMe = {
       backEnd: {
          js: ["NodeJS", "express", "Jest", "Sequelize"]
       },
-      databases: ["SQL", "MySQL", "PostgreSQL"],
+      databases: ["MySQL", "PostgreSQL", "MongoDB"],
    },
   skillLevel: ["Desarrollador Web"],["Full Stack Jr"],
   challenge: "Abierto a aprender nuevas tecnologias y herramientas"
