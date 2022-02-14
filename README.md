@@ -11,7 +11,7 @@
 ```javascript
 const aboutMe = {
   developer: "FrontEnd" | "BackEnd",
-   code: [Javascript, HTML, CSS, Java],
+   code: [Javascript, Java, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Redux", "Chartjs", "jQuery"],
