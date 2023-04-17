@@ -2,7 +2,7 @@
   <dl>
   <br>
     <img 
-      style='width: 23%; height: 17rem;' 
+      style='width: 22%; height: 15rem;' 
       src='https://i.pinimg.com/564x/9a/7f/ae/9a7fae3cbc419def1df1adf01eb553e3.jpg'
       align="left"
      />    
