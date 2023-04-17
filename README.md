@@ -1,35 +1,35 @@
-<h1> ¡Hola! Muchas gracias por visitar mi perfil en GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1> Desarrollador Full Stack</h1>
   <dl>
   <br>
-    <img style='width: 100%; height: 22rem' src='[https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg](https://ar.pinterest.com/pin/317503842465908772/)'/>
-  </dl>
-<p>Mi nombre es Ivan y soy desarrollador Web Argentino<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+    <img 
+      style='width: 23%; height: 17rem;' 
+      src='https://i.pinimg.com/564x/9a/7f/ae/9a7fae3cbc419def1df1adf01eb553e3.jpg'
+      align="left"
+     />    
+<p>¡Hola a todos y bienvenidos a mi perfil! Soy Iván y actualmente me desempeño como desarrollador Full Stack. He trabajado en la creación de proyectos y productos que han requerido un pensamiento creativo e importantes habilidades analíticas y técnicas, lo que me ha permitido desarrollar una sólida comprensión de las mejores prácticas en el desarrollo de software. Además he desempeñado varios roles en equipos de desarrollo de software y he adquirido habilidades valiosas. Valoro la colaboración con otros talentos del equipos para encontrar soluciones creativas a los desafíos técnicos.
+  
+En mi perfil encontrarás información sobre mi historial laboral, habilidades técnicas, intereses en la programación y objetivos a largo plazo. Espero que disfruten de mi perfil y no duden en contactarme si tienen alguna pregunta o si les gustaría hablar sobre posibles colaboraciones. ¡Gracias por visitar mi perfil y espero poder conectarme con ustedes pronto!</em></p>
 
 ### Un poco sobre mi...  
 
 ```javascript
-const aboutMe = {
-  developer: "FrontEnd" | "BackEnd",
-   code: [Javascript, Java, HTML, CSS],
-   technologies: {
+  const aboutMe = {
+    developer: "FrontEnd" | "BackEnd",
+    languageAndCode: [Javascript, Java, html, css],
+    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "Chartjs", "jQuery"],
-         css: ["Bootstrap", "Semantic-UI"]
+        js: [React, Redux],
+        css: [Bootstrap, Semantic ui, Material ui]
       },
       backEnd: {
-         js: ["NodeJS", "express", "Jest", "Sequelize"]
+        js: [Bootstrap, Node, Express, Jest, Sequelize],
+        databases: [MySQL, PostgreSQL, MongoDB],
       },
-      databases: ["MySQL", "PostgreSQL", "MongoDB"],
-   },
-  skillLevel: ["Desarrollador Web"],["Full Stack Jr"],
-  challenge: "Abierto a aprender nuevas tecnologias y herramientas"
-};
+      skillLevel: Full Stack
+   }
+  };
 ```
-- *¿Que busco?*: Una empresa que me de la oportunidad de poner en práctica todo lo aprendido y demostrar mis aptitudes como desarrollador. Mi capacidad de aprendizaje y las ganas de superarme me convierten en un buen candidato para aquellas empresas que desean integrar a su equipo un nuevo talento.
-- *Objetivo:* Implementar en mis trabajos diseños con el mayor estándar de calidad posible empleando un Stack de herramientas que logré cultivar con esfuerzo y dedicación.
-- *Actualmente:* Me ilusiona un proyecto en el cual pueda aprender, crecer y desarrollarme como profesional. Que me permita aportar valor significativo desde mi lugar como programador Jr. Por este motivo sigo capacitandome dia a dia para profundizar mis conocimientos y estar a la altura de los desafio.:muscle: 
-- *Competencias*: Adaptabilidad. Autodidacta. Proactivo y con iniciativa propia. Me siento especialmente cómodo trabajando en equipo. Me gusta contribuir, cooperar y colaborar con mis compañeros para crear y formular soluciones innovadoras mediante procesos creativos sobre metodologías de trabajo aguiles que nos proporcionen garantía en los resultados 😄 :thumbsup:
+Estoy emocionado por las oportunidades que se presentan para desarrollar productos innovadores y hacer una diferencia positiva en el mundo de la tecnología es por eso que si buscas integrar a tu equipo un nuevo talento no dudes en contactarme.
     
 <h2><strong>Lenguajes: FrontEnd<strong></h2>
     <h3>
