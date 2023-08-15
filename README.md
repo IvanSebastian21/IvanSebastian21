@@ -14,19 +14,19 @@ En mi perfil encontrarás información sobre mi historial laboral, habilidades t
 
 ```javascript
   const aboutMe = {
-    developer: "FrontEnd" | "BackEnd",
-    languageAndCode: [Javascript, Java, html, css],
-    technologies: {
+    developer: "BackEnd" | "FrontEnd",
+    language: [Java, JavaScript, Dart],
+    technologies: [
       frontEnd: {
-        js: [React, Redux],
-        css: [Bootstrap, Semantic ui, Material ui]
+        frameworks: [React, Redux, reactQuery],
+        ui: [HTML, CSS, Bootstrap, SemanticUi, MaterialUi]
       },
       backEnd: {
-        js: [Bootstrap, Node, Express, Jest, Sequelize],
-        databases: [MySQL, PostgreSQL, MongoDB],
+        frameworks: [SpringBoot, SpringSecurity, SpringData, JPA, JDBC, Node, Express, Jest, Sequelize],
+        databases: [MySQL, PostgreSQL, MongoDB, Redis],
       },
-      skillLevel: Full Stack
-   }
+      skillLevel: Developer Full Stack
+   ]
   };
 ```
 Estoy emocionado por las oportunidades que se presentan para desarrollar productos innovadores y hacer una diferencia positiva en el mundo de la tecnología es por eso que si buscas integrar a tu equipo un nuevo talento no dudes en contactarme.
@@ -34,7 +34,7 @@ Estoy emocionado por las oportunidades que se presentan para desarrollar product
 
 ¡Gracias por visitar mi perfil y espero poder conectarme contigo pronto! Si tienes alguna pregunta o si te gustaría hablar sobre posibles oportunidades de colaboración, no dudes en contactarme.
     
-<h3>FrontEnd<strong></h3>
+<h3>                                ----------FrontEnd----------<strong></h3>
     <h4>
     html5 <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"/> |
     css3 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/> |
@@ -46,37 +46,33 @@ Estoy emocionado por las oportunidades que se presentan para desarrollar product
     <h4> 
 
       
-<h3>Backend<strong></h3>        
+<h3>                                ----------Backend----------<strong></h3>        
     <h4>  
-    Javascript <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"/>  |
-    Java <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/2/26/Java.png"/> |      
+    Java <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://lineadecodigo.com/wp-content/uploads/2014/02/java.png"/> |     
+    SpringBoot <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://miro.medium.com/v2/resize:fit:624/1*dwa1SCG85BAzQttURVUvrA.png"/> | 
+     Javascript <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"/>  |
     Node Js <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268343/readme/pngwing.com_9_nptorj.png"/> |
     Express <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268180/readme/pngwing.com_5_mtcqjs.png"/> |
     Jest <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"/>|
     Sequalize <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seekvectors.com/files/download/Sequelize-01.png"
     <h4>
 
-<h3>Base de datos<strong></h3>
+<h3>----------Base de datos----------<strong></h3>
     <h4>
     PostgreSQL <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268544/readme/pngwing.com_10_qbdbp1.png"/> |
     MySQL <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/800px-Mysql.svg.png"/>
     <h4>
     <br>  
 
-<h3> Contacto: <h3> 
+<h3> Contacto: <strong>ivanseba.nez20@gmail.com 
   <img align='right'
        src="https://user-images.githubusercontent.com/85074756/140621760-a092acaa-bb99-41b2-bc4f-b2d30283fbf2.jpeg"
        width="180"
        height="195">
-       <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' 
-       target= "_blank"
-  >
+       <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target= "_blank">
+  <h3>
   <img style='width: 3rem; height: 3rem; margin-top: 1rem' 
-       src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png"
-  >      
+       src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">   
 </a>
-  
-  
-<h3>Puedes escribirme a: <strong>ivanseba.nez20@gmail.com <h3>
 <br>
 Saludos!
