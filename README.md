@@ -21,13 +21,12 @@
 - LinkedIn: [Iván S. Nuñez](https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)
 
 ¡Gracias por visitar mi perfil y espero poder conectarme contigo pronto! Si tienes alguna pregunta o si te gustaría hablar sobre posibles oportunidades de colaboración, no dudes en contactarme.
-    
+
+<a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target="_blank">
 <img align='right'
        src="https://user-images.githubusercontent.com/85074756/140621760-a092acaa-bb99-41b2-bc4f-b2d30283fbf2.jpeg"
        width="180"
        height="195">
-       <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target= "_blank">
-  <h3>
 </a>
     Saludos!
 <br>
@@ -36,5 +35,8 @@
 <br>
 <br>
 <br>
-  <img style='width: 3rem; height: 3rem; margin-top: 1rem' 
-       src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">   
+
+<a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target="_blank">
+  <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">
+</a>
+
