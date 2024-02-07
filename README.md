@@ -32,5 +32,9 @@
     Saludos!
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
   <img style='width: 3rem; height: 3rem; margin-top: 1rem' 
        src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">   
