@@ -14,12 +14,17 @@
 ## Proyectos
 
 - En mi perfil encontrarás información sobre mi ultimos proyectos, habilidades técnicas, intereses en la programación y objetivos a largo plazo.
+  
+[Proyecto 1](https://www.linkedin.com/feed/update/urn:li:activity:6917244981048950785/)
+
+[Proyecto 2](https://www.linkedin.com/feed/update/urn:li:activity:6872386352856543232/)
 
 ## Contacto
 
 - Correo electrónico: ivanseba.nez20@gmail.com
 - LinkedIn: [Iván S. Nuñez](https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/)
 
+## Saludo
 ¡Gracias por visitar mi perfil y espero poder conectarme contigo pronto! Si tienes alguna pregunta o si te gustaría hablar sobre posibles oportunidades de colaboración, no dudes en contactarme.
 
 <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target="_blank">
@@ -28,7 +33,6 @@
        width="180"
        height="195">
 </a>
-    Saludos!
 <br>
 <br>
 <br>
