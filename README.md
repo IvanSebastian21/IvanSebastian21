@@ -6,7 +6,7 @@
       src='https://i.pinimg.com/564x/9a/7f/ae/9a7fae3cbc419def1df1adf01eb553e3.jpg'
       align="left"
      />    
-<p>¡Hola a todos y bienvenidos a mi perfil! Soy Iván y actualmente me desempeño como Software Engineer y Developer Full Stack. He trabajado en la creación de proyectos y productos que han requerido un pensamiento creativo e importantes habilidades analíticas y técnicas, lo que me ha permitido desarrollar una sólida comprensión de las mejores prácticas en la creación y desarrollo de software. Además he desempeñado varios roles en equipos de desarrollo y he adquirido habilidades valiosas. Valoro la colaboración con otros talentos del equipos para encontrar soluciones creativas a los desafíos técnicos.
+<p>¡Hola a todos y bienvenidos a mi perfil! Soy Iván y actualmente me desempeño como Software Engineer y Developer Full Stack. He trabajado en la creación de proyectos y productos que han requerido un pensamiento creativo e importantes habilidades analíticas y técnicas, lo que me ha permitido desarrollar una sólida comprensión de las mejores prácticas en la creación y desarrollo de software. He desempeñado roles de liderazgo en equipos de desarrollo y he adquirido habilidades valiosas. Valoro la colaboración con otros talentos para encontrar soluciones creativas a los desafíos técnicos.
   
 En mi perfil encontrarás información sobre mi historial laboral, habilidades técnicas, intereses en la programación y objetivos a largo plazo. Espero que disfruten de mi perfil y no duden en contactarme si tienen alguna pregunta o si les gustaría hablar sobre posibles colaboraciones. ¡Gracias por visitar mi perfil y espero poder conectarme con ustedes pronto!</em></p>
 
