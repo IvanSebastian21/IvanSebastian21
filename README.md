@@ -2,11 +2,15 @@
 
 ## Acerca de mí
 
-¡Hola a todos y bienvenidos a mi perfil! Soy Iván y actualmente me desempeño como Software Engineer. Mi experiencia incluye la creación de proyectos y productos que requieren un pensamiento creativo y habilidades analíticas y técnicas. Esto me ha permitido desarrollar una sólida comprensión de las mejores prácticas en la creación y desarrollo de software. He desempeñado roles de liderazgo en equipos de desarrollo y adquirido habilidades valiosas. Valoro la colaboración con otros talentos para encontrar soluciones creativas a los desafíos técnicos.
+Hola! Soy Ivan, Ingeniero de Software Full-Stack especializado en AI Engineering y arquitecturas multi-agente. Diseño y construyo plataformas enterprise que orquestan múltiples agentes de IA especializados con RAG, routing semántico y coordinación jerárquica sobre stacks de producción.
+
+Lo que me diferencia: diseño sistemas de RAG agéntico con routing semántico que decide dinámicamente qué knowledge base consultar, aplica thresholds de confianza para evitar alucinaciones, y procesa documentos multimodales para extraer conocimiento empresarial real. Los agentes operan con prompts externalizados y modulares que permiten iterar su comportamiento sin redesplegar. Todo sobre una arquitectura extensible y escalable.
+
+Actualmente liderando la arquitectura de una plataforma de orquestación multi-agente junto a un equipo multidisciplinario, para una de las telcos más grandes de LATAM.
 
 ## Habilidades
 
-- Desarrollo BackEnd: Java, JavaScript, Dart
+- Desarrollo BackEnd: Java, JavaScript, TypeScript, Python, Dart
 - Desarrollo FrontEnd: React, Redux, reactQuery, HTML, CSS, Bootstrap, SemanticUi, MaterialUi
 - Tecnologías BackEnd: SpringBoot, SpringSecurity, SpringData, JPA, JDBC, Node, Express, Jest, Sequelize
 - Bases de datos: MySQL, PostgreSQL, MongoDB, Redis
